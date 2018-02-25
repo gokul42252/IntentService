@@ -164,4 +164,5 @@ However, in most cases an<span> </span><code><a href="https://developer.android
 </span><span>
 </span><span>&lt;/android.support.constraint.ConstraintLayout&gt;
 </span></pre>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CsklNOJqgtE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe>
+
+Article is originally published in http://thoughtnerds.com/best-practice-intentservice-android-example/
